@@ -1,4 +1,4 @@
 x = 10
 print(x)
-y = 10
-print(y)
+y = 5
+print(x + y)
