@@ -1,4 +1,5 @@
-...
-print(x)
-y = 5
-...
+def foo():
+    pass
+
+def bar():
+    ...
