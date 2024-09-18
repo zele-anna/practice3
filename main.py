@@ -1,4 +1,5 @@
-x = 10
-print(x)
-y = 10
-print(y)
+def func():
+    pass
+
+def bar():
+    pass
